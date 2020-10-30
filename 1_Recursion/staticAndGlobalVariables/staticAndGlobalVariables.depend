@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602582598 source:e:\github\data-structures\staticandglobalvariables\main.c
+	<stdio.h>
+	<stdlib.h>
+

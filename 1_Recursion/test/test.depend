@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603177943 source:e:\github\data-structures\test\main.c
+	<stdio.h>
+	<stdlib.h>
+

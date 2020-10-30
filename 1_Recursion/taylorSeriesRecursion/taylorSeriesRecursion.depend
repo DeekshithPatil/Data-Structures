@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602606378 source:e:\github\data-structures\taylorseriesrecursion\main.c
+	<stdio.h>
+	<stdlib.h>
+

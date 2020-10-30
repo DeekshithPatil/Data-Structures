@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602592478 source:e:\github\data-structures\powerrecursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
