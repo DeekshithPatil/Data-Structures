@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618840483 source:g:\courses\data-structures\3_pointers\main.c
+	<stdio.h>
+	<stdlib.h>
+
