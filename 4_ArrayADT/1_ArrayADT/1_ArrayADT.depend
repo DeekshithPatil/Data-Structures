@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620039654 source:g:\courses\data-structures\4_arrayadt\1_arrayadt\main.c
+	<stdio.h>
+	<stdlib.h>
+

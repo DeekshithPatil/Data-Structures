@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620546814 source:g:\courses\data-structures\5_strings\4_reversingastring\main.c
+	<stdio.h>
+	<stdlib.h>
+

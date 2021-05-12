@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620664770 source:g:\courses\data-structures\5_strings\6_stringanagram\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602584814 source:e:\github\data-structures\treerecursion\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618830773 source:g:\courses\data-structures\2_recursion\2_treerecursion\main.c
+	<stdio.h>
+	<stdlib.h>
+

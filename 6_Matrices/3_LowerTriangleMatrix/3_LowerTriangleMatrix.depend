@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620809184 source:g:\courses\data-structures\6_matrices\3_lowertrianglematrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

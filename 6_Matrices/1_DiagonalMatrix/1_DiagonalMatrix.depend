@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620800503 source:g:\courses\data-structures\6_matrices\1_diagonalmatrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

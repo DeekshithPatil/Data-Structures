@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618830773 source:g:\courses\data-structures\2_recursion\3_indirectrecursion\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602582598 source:e:\github\data-structures\staticandglobalvariables\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618830773 source:g:\courses\data-structures\2_recursion\1_staticandglobalvariables\main.c
+	<stdio.h>
+	<stdlib.h>
+

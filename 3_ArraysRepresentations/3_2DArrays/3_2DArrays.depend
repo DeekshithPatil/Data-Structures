@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619775578 source:g:\courses\data-structures\3_arraysrepresentations\3_2darrays\main.c
+	<stdio.h>
+	<stdlib.h>
+

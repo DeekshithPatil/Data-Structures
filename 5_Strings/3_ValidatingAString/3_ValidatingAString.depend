@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620545944 source:g:\courses\data-structures\5_strings\3_validatingastring\main.c
+	<stdio.h>
+	<stdlib.h>
+
