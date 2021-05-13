@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620917458 source:g:\courses\data-structures\7_sparsematrixandpolynomialrepresentation\3_polynomial\main.c
+	<stdio.h>
+	<stdlib.h>
+
