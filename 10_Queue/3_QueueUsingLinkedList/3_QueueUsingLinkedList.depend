@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622114103 source:g:\courses\data-structures\10_queue\3_queueusinglinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+

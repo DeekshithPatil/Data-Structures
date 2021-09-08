@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621076744 source:g:\courses\data-structures\8_linkedlist\12_reversingalinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

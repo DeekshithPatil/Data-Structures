@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621672841 source:g:\courses\data-structures\10_queue\1_queueusingarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

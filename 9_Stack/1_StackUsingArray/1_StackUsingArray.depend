@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621589821 source:g:\courses\data-structures\9_stack\1_stackusingarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

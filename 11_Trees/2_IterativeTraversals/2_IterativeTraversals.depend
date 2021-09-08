@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622199638 source:g:\courses\data-structures\11_trees\2_iterativetraversals\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+	"Stack.h"
+
+1622199683 g:\courses\data-structures\11_trees\2_iterativetraversals\queue.h
+
+1622200834 g:\courses\data-structures\11_trees\2_iterativetraversals\stack.h
+

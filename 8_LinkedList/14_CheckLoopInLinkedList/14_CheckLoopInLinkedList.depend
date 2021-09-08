@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621103954 source:g:\courses\data-structures\8_linkedlist\14_checkloopinlinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622193074 source:g:\courses\data-structures\11_trees\1_creatingabinarytree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1622192595 g:\courses\data-structures\11_trees\1_creatingabinarytree\queue.h
+
